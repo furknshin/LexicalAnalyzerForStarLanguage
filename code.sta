@@ -1,0 +1,19 @@
+int sayi1, sayi2, sayi3, sayi4.
+sayi1 is 10.
+/* sayilari al */
+read "sayi2'i giriniz: "  sayi2.
+read "sayi3'i giriniz: " sayi3.
+sayi4 is sayi1 / sayi2.
+loop{ 3 times, sayi3 is sayi3 + 1}.
+write "Sayi1: " sayi1.
+write "Sayi2: " sayi2.
+write "Sayi3: " sayi3.
+write "Sayi4: " sayi4.
+newLine.
+/* Ismi al */
+text isim.
+isim is "Sahin".
+write "Isim: " isim.
+newLine.
+int sayi5.
+sayi5 is -10.
